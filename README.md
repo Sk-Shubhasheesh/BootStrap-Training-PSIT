@@ -20,4 +20,6 @@ Link -> [https://getbootstrap.com/]
 * CDN link of BootStrap - [https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css]
 
 
+## Container (Layout)
+* Containers are used to contain, pad, and(sometimes) center the content within them.
 
